@@ -55,7 +55,7 @@ Active Directory is a cornerstone of enterprise network management, and understa
 This lab provides hands-on experience in understanding and exploiting Active Directory environments. By learning these techniques, you will enhance your skills in penetration testing and defensive security practices.
 
 ## Resources
-- [My TryHackMe Profile](https://tryhackme.com/p/Daniel.Mwendwa)
+- [My TryHackMe Profile](https://tryhackme.com/r/p/cyb3rd4nc3)
 - [Attacktive Directory Room](https://tryhackme.com/room/attacktivedirectory)
 
 Happy hacking! 
